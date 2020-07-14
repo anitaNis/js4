@@ -1,0 +1,43 @@
+h1 {
+  color: rgb(128, 43, 43);
+}
+h3 {
+  color: red;
+}
+p {
+  color: purple;
+}
+img {
+  width: 400px;
+  height: 300px;
+  border: 2px dashed red;
+}
+a {
+  color: orange;
+}
+
+body {
+  background-color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.centar {
+  text-align: center;
+}
+.desno {
+  font-size: 24px;
+  text-align: right;
+}
+.treci {
+  color: green;
+  text-align: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+a:visited {
+  color: green;
+}
+a:hover {
+  color: yellow;
+}
